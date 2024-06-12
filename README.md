@@ -122,7 +122,7 @@
     <table>
         <tr>
             <td>
-                <img src="https://github.com/Narendraspatil/Narendraspatil/assets/147825339/223d0850-5fd7-454d-b15c-4419170ec5a4" alt="Image" width="950">
+                <a href="https://github.com/Narendraspatil/Myntra_product_Analysis"><img src="https://github.com/Narendraspatil/Narendraspatil/assets/147825339/223d0850-5fd7-454d-b15c-4419170ec5a4" alt="Image" width="950"></a>
             </td>
             <td>
                 <p><i>An in-depth Exploratory Data Analysis (EDA) on Myntra's product dataset to uncover insights for optimizing pricing and discount strategies. Analyzed price distributions, identified top-                            sellers, and examined the impact of discounts on customer ratings. 
@@ -135,7 +135,7 @@
   <table>
       <tr>
             <td>
-                <img src="https://github.com/Narendraspatil/Narendraspatil/assets/147825339/a7f21685-1661-4453-a91b-3d82d6fdd403" alt="Image" width="900">
+                <a href="https://github.com/Narendraspatil/Climate-Change-Indicators-Analysis"><img src="https://github.com/Narendraspatil/Narendraspatil/assets/147825339/a7f21685-1661-4453-a91b-3d82d6fdd403" alt="Image" width="900"></a>
             </td>
             <td>
                 <p><i>A comprehensive exploratory data analysis and time series analysis on climate change indicators from 1961 to 2022, including temperature, atmospheric CO2, sea levels, and ocean heat                                 content. 
