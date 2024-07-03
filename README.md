@@ -122,7 +122,7 @@
     <table>
         <tr>
             <td>
-                <a href="https://github.com/Narendraspatil/Myntra_product_Analysis"><img src="https://github.com/Narendraspatil/Narendraspatil/assets/147825339/886d2d20-ffbb-49e7-b412-4f9bdc61bcbe" alt="Image" width="950"></a>
+                <a href="https://github.com/Narendraspatil/Employee_Attrition_Analysis"><img src="https://github.com/Narendraspatil/Narendraspatil/assets/147825339/886d2d20-ffbb-49e7-b412-4f9bdc61bcbe" alt="Image" width="950"></a>
             </td>
             <td>
                 <p><i>A comprehensive analysis of employee attrition was conducted to address a persistent 15% annual turnover rate at a company established a few years ago. This high attrition rate significantly impacts productivity, team morale, and operational costs. 
