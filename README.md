@@ -3,7 +3,7 @@
 
 <h3>Data Analyst</h3>
 
-<h4>+91 8208888498 | patil_narendra@outlook.com</h4>
+patil_narendra@outlook.com</h4>
 
   <a href="https://www.linkedin.com/in/narendra-patil-583b242a1/">
     <img src="https://www.svgrepo.com/show/303207/linkedin-icon-logo.svg" alt="LinkedIn Logo" width="40"/>
@@ -48,9 +48,14 @@
     <div>
       <ul>
         <li>
-          <h3>Data Analyst Intern</h3>
+          <h3>Data Analyst</h3>
           <p> Cloud Counselage Pvt. Ltd. - Internship</p>
           <p> Jun 2024 - Present</p>
+        </li>
+        <li>
+          <h3>Data Analyst</h3>
+          <p> Unified Mentor - Internship</p>
+          <p> Jun 2024 - July 2024</p>
         </li>
       </ul>
     </div>
@@ -90,6 +95,30 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
 </body>
 
+
+<div align="left" >
+  <h2><img src="https://www.svgrepo.com/show/286420/certificate.svg" alt="certificate Icon" width="40"><i> Certifications:</i></h2>
+  <i>
+    <ul>
+        <li>
+          <a href="https://www.udemy.com/certificate/UC-6b4e8c76-f6cd-4764-a6b7-f85c59214eb3/">The Complete SQL Bootcamp </a>- Udemy (Feb 2024)
+        </li>
+        <li>
+          <a href="https://www.udemy.com/certificate/UC-6b4e8c76-f6cd-4764-a6b7-f85c59214eb3/">Artificial Intelligence 2024 </a>- Udemy (Jan 2024)
+        </li>
+        <li>
+          <a href="https://www.udemy.com/certificate/UC-b112535f-20bb-4d7f-afa0-eba81498ae39/">The Complete Python Pro Bootcamp </a>- Udemy (Jan 2024)
+        </li>
+        <li>
+          <a href="https://www.coursera.org/account/accomplishments/records/QWPLSQC9SXQK">Introduction to Statistics </a>- Stanford University (Sep 2023)
+        </li>
+    </ul>
+  </i>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+
 <body>
   <h2><img src="https://www.svgrepo.com/show/280656/gears-setup.svg" alt="Tools Icon" width="30"><i>  My Working Tools:</i></h2>
   <body align="centre">
@@ -122,12 +151,25 @@
     <table>
         <tr>
             <td>
-                <a href="https://github.com/Narendraspatil/Employee_Attrition_Analysis"><img src="https://github.com/Narendraspatil/Narendraspatil/assets/147825339/886d2d20-ffbb-49e7-b412-4f9bdc61bcbe" alt="Image" width="950"></a>
+                <a href="https://github.com/Narendraspatil/Employee_Attrition_Analysis"><img src="https://github.com/Narendraspatil/Narendraspatil/assets/147825339/886d2d20-ffbb-49e7-b412-4f9bdc61bcbe" alt="Image" width="925"></a>
             </td>
             <td>
                 <p><i>A comprehensive analysis of employee attrition was conducted to address a persistent 15% annual turnover rate at a company established a few years ago. This high attrition rate significantly impacts productivity, team morale, and operational costs. 
                   <br>The study aimed to identify key factors contributing to employee turnover and develop targeted retention strategies.
                   <br><br>Tools and Technologies Used: Python (Pandas, Matplotlib, Seaborn, Scikit-Learn), Excel, Power BI.
+                </p></i>
+            </td>
+        </tr>
+    </table>
+  <table>
+        <tr>
+            <td>
+                <a href="https://github.com/Narendraspatil/FDI_Data_Analysis"><img src="https://github.com/Narendraspatil/Narendraspatil/assets/147825339/56c17964-7310-4ba2-82cc-b18016267022" alt="Image" width="1000"></a>
+            </td> 
+            <td>
+                <p><i>Foreign Direct Investment (FDI) involves investments from a company or individual from one country into business interests in another country. This analysis focuses on FDI inflows into India, providing insights into sectoral growth and annual trends from 2000 to 2017. 
+                  <br>Understanding these patterns helps stakeholders make informed decisions about economic planning and investment strategies.
+                  <br><br>Tools and Technologies Used: Excel, SQL, PostgreSQL, Power BI, pgAdmin4.
                 </p></i>
             </td>
         </tr>
@@ -148,7 +190,7 @@
   <table>
       <tr>
             <td>
-                <a href="https://github.com/Narendraspatil/Climate-Change-Indicators-Analysis"><img src="https://github.com/Narendraspatil/Narendraspatil/assets/147825339/a7f21685-1661-4453-a91b-3d82d6fdd403" alt="Image" width="900"></a>
+                <a href="https://github.com/Narendraspatil/Climate-Change-Indicators-Analysis"><img src="https://github.com/Narendraspatil/Narendraspatil/assets/147825339/a7f21685-1661-4453-a91b-3d82d6fdd403" alt="Image" width="910"></a>
             </td>
             <td>
                 <p><i>A comprehensive exploratory data analysis and time series analysis on climate change indicators from 1961 to 2022, including temperature, atmospheric CO2, sea levels, and ocean heat                                 content. 
@@ -160,27 +202,6 @@
     </table>
 </body>
 
-<div align="left" >
-  <h2><img src="https://www.svgrepo.com/show/286420/certificate.svg" alt="certificate Icon" width="40"><i> Certifications:</i></h2>
-  <i>
-    <ul>
-        <li>
-          <a href="https://www.udemy.com/certificate/UC-6b4e8c76-f6cd-4764-a6b7-f85c59214eb3/">The Complete SQL Bootcamp </a>- Udemy (Feb 2024)
-        </li>
-        <li>
-          <a href="https://www.udemy.com/certificate/UC-6b4e8c76-f6cd-4764-a6b7-f85c59214eb3/">Artificial Intelligence 2024 </a>- Udemy (Jan 2024)
-        </li>
-        <li>
-          <a href="https://www.udemy.com/certificate/UC-b112535f-20bb-4d7f-afa0-eba81498ae39/">The Complete Python Pro Bootcamp </a>- Udemy (Jan 2024)
-        </li>
-        <li>
-          <a href="https://www.coursera.org/account/accomplishments/records/QWPLSQC9SXQK">Introduction to Statistics </a>- Stanford University (Sep 2023)
-        </li>
-    </ul>
-  </i>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;
-</div>
 
 <!---
 Narendraspatil/Narendraspatil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
