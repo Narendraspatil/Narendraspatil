@@ -3,7 +3,7 @@
 
 <h3>Data Analyst</h3>
 
-patil_narendra@outlook.com</h4>
+patil_narendra@outlook.com
 
   <a href="https://www.linkedin.com/in/narendra-patil-583b242a1/">
     <img src="https://www.svgrepo.com/show/303207/linkedin-icon-logo.svg" alt="LinkedIn Logo" width="40"/>
@@ -19,6 +19,10 @@ patil_narendra@outlook.com</h4>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/visionindata/">
     <img src="https://www.svgrepo.com/show/452231/instagram.svg" alt="Instagram Logo" width="43"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/narendra_patil">
+    <img src="https://github.com/user-attachments/assets/92b8874d-a38c-4420-bee9-7610205ce3c6" alt="Codeforces Logo" width="43"/>
   </a>
 </div>
 
@@ -148,6 +152,19 @@ patil_narendra@outlook.com</h4>
 
 <body>
   <h2><img src="https://www.svgrepo.com/show/267862/portfolio.svg" alt="portfolio Icon" width="30"><i>  Portfolio Projects:</i></h2>
+  <table>
+        <tr>
+            <td>
+                <a href="https://github.com/Narendraspatil/Indian_EV_Market_Analysis"><img src="https://github.com/user-attachments/assets/b5b8b698-1507-4f14-9390-730a055e17b5" alt="Image" width="1330"></a>
+            </td>
+            <td>
+                <p><i>This project analyzes the Indian electric vehicle (EV) market from FY 2022 to FY 2024, focusing on sales trends, regional penetration rates, and the market share of key manufacturers in both two-wheeler and four-wheeler segments. The analysis highlights disparities in sales across states and the concentration of EV adoption in top-performing regions. 
+                  <br>Through data-driven insights, it demonstrates that while a few manufacturers dominate, the market is rapidly expanding, presenting both opportunities and challenges for new entrants.
+                  <br><br>Tools and Technologies Used: Python (Pandas, Matplotlib, Seaborn), Excel, Power BI.
+                </p></i>
+            </td>
+        </tr>
+    </table>
     <table>
         <tr>
             <td>
