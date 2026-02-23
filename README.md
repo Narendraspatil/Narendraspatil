@@ -89,6 +89,22 @@ I’m passionate about solving real business problems with data and building sys
 </ul>
 </body>
 
+<div align="left">
+  <h2><img src="https://www.svgrepo.com/show/530138/graduation.svg" alt="Education Icon" width="35"><i> Education:</i></h2>
+  <ul>
+    <li>
+      <h3>Specialisation in Machine Learning, Data Science & Analytics</h3>
+      <p>Scaler Academy | May 2025 – Present</p>
+      <p><i>Advanced training in Machine Learning, Statistical Analysis, Feature Engineering, and real-world business case studies.</i></p>
+    </li>
+    <br>
+    <li>
+      <h3>Bachelor of Engineering</h3>
+      <p>Savitribai Phule Pune University | 2016 – 2020</p>
+    </li>
+  </ul>
+</div>
+
 
 <body>
   <h2><img src="https://www.svgrepo.com/show/218253/skills.svg" alt="Skills Icon" width="30"><i> Skills:</i></h2>
