@@ -90,7 +90,7 @@ I’m passionate about solving real business problems with data and building sys
 </body>
 
 <div align="left">
-  <h2><img src="https://www.svgrepo.com/show/530138/graduation.svg" alt="Education Icon" width="35"><i> Education:</i></h2>
+  <h2><img src="https://www.svgrepo.com/show/382151/education-graduation-learning-school-study.svg" alt="Education Icon" width="35"><i> Education:</i></h2>
   <ul>
     <li>
       <h3>Specialisation in Machine Learning, Data Science & Analytics</h3>
