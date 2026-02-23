@@ -1,7 +1,7 @@
 <div align="left">
 <h1><strong><i>Welcome to Narendra's Portfolio !</i></strong></h1>
 
-<h3>Data Analyst</h3>
+<h3>Data Analyst | Python, SQL, Tableau, Power BI, Looker Studio | Dashboarding, Automation & Business Insights</h3>
 
 patil_narendra@outlook.com
 
@@ -27,13 +27,20 @@ patil_narendra@outlook.com
 </div>
 
 <div align="left">
-<p><br><br><i>Hello, I'm Narendra, an analytically-minded professional dedicated to transforming data into actionable insights. As a data analyst, I possess expertise in Python, SQL, Excel, Tableau, and Power BI. My strong problem-solving, critical thinking, and communication skills enable me to excel in various analytical tasks.
-  <br>I am particularly passionate about leveraging my data analytics knowledge to understand and analyze environmental, political, economic, and social issues. Through my Instagram page, VisionInData, I share insightful data visualizations and findings on these topics.
-  <br>This portfolio showcases my skills, certifications, and completed projects, reflecting my commitment to data-driven decision-making and insightful analysis.</i></p>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+<p><br><br><i>Hello, I'm Narendra — a Data Analyst focused on turning business data into measurable growth and operational efficiency.
 
+Currently working in the real estate domain, I specialize in KPI tracking, performance analytics, dashboarding, and process automation. My work supports marketing, sales, and leadership teams with real-time insights used by 20–230 stakeholders daily.
+
+I have hands-on experience in Python, SQL, Advanced Excel, Tableau, Power BI, and Looker Studio, along with strong business skills like root cause analysis, stakeholder management, and workflow optimization.
+
+Some of my key contributions include:
+• Automated reporting, reducing turnaround time from hours to minutes (75% efficiency gain)  
+• Built live dashboards for nationwide performance monitoring  
+• Designed a gamified sales analytics system that increased bookings and revenue by 200–250%  
+• Improved marketing ROI through campaign performance analysis  
+
+I’m passionate about solving real business problems with data and building systems that scale.</i></p>
+</div>
 
 <div align="left" >
   <h2><img src="https://www.svgrepo.com/show/530138/writing.svg" alt="Skills Icon" width="40"><i> Beyond the Bio:</i></h2>
@@ -48,23 +55,38 @@ patil_narendra@outlook.com
 </div>
 
 <body>
-    <h2><img src="https://www.svgrepo.com/show/260474/briefcase.svg" alt="experince Icon" width="30"><i> Professional Experience:</i></h2>
-    <div>
-      <ul>
-        <li>
-          <h3>Data Analyst</h3>
-          <p> Cloud Counselage Pvt. Ltd. - Internship</p>
-          <p> Jun 2024 - Present</p>
-        </li>
-        <li>
-          <h3>Data Analyst</h3>
-          <p> Unified Mentor - Internship</p>
-          <p> Jun 2024 - July 2024</p>
-        </li>
-      </ul>
-    </div>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<h2><img src="https://www.svgrepo.com/show/260474/briefcase.svg" width="30"><i> Professional Experience:</i></h2>
+
+<ul>
+<li>
+<h3>Data Analyst</h3>
+<p>The House of Real Estate | Oct 2024 – Present | Pune</p>
+<ul>
+<li>Monitored operational KPIs including lead flow, conversion rates, and team performance to ensure SLA adherence.</li>
+<li>Created executive-level reports translating data insights into business recommendations.</li>
+<li>Built and maintained live dashboards using Looker Studio and Tableau used by 20–230 stakeholders daily.</li>
+<li>Automated reporting processes using Python and Google Apps Script, reducing report time from 2–3 hours to 2–3 minutes.</li>
+<li>Performed campaign analysis to optimize ad spend, targeting, and ROI.</li>
+<li>Conducted root cause analysis to improve operational efficiency and data quality.</li>
+<li>Designed standardized schemas, data mappings, and SOP documentation.</li>
+<li>Developed a gamified sales performance system that increased:
+   • Site visits by 200–250%  
+   • Meetings by 100%  
+   • Bookings and revenue by 200–250%</li>
+</ul>
+</li>
+
+<li>
+<h3>Data Analyst Intern</h3>
+<p>Cloud Counselage Pvt. Ltd. | Jun 2024 – Sep 2024</p>
+<ul>
+<li>Performed end-to-end data cleaning, analysis, and visualization for live projects.</li>
+<li>Built Tableau dashboards and analytical reports for business decision support.</li>
+<li>Delivered actionable insights across multiple departments.</li>
+</ul>
+</li>
+
+</ul>
 </body>
 
 
@@ -76,17 +98,19 @@ patil_narendra@outlook.com
             <ul>
                 <li>Programming Languages: Python (pandas, numpy, scikit-learn), SQL </li>
                 <li>Databases: PostgreSQL, MySQL</li>
-                <li>Data Visualization: Tableau, Power BI, Google Data Studio, matplotlib, seaborn, plotly</li>
+                <li>Data Visualization: Tableau, Power BI, Looker Studio, matplotlib, seaborn, plotly</li>
                 <li>Spreadsheet Software: Excel, Google Sheets</li>
+              <li>Google Apps Script, Git, GitHub</li>
             </ul>
         </li>
         <li>
             <h3><img src="https://www.svgrepo.com/show/499835/data-report.svg" alt="Data Analysis Skills Icon" width="30"> Data Analysis Skills:</h3>
             <ul>
                 <li>Data Preparation: Data Cleaning and Transformation, Data Wrangling, Data Processing, Data Pipeline, Extract-Transform-Load (ETL)</li>
-                <li>Exploratory Data Analysis (EDA): Data Visualization, Data Manipulation, Data Mining</li>
+                <li>Exploratory Data Analysis (EDA): Data Visualization, Data Manipulation, Data Mining, Data Modelling</li>
                 <li>Statistical Analysis: Regression Analysis, A/B Testing, Forecasting</li>
-                <li>Advanced Analysis: Time Series Analysis, Customer Segmentation, RFM Analysis</li>
+                <li>Advanced Analysis: Time Series Analysis, Customer Segmentation, RFM Analysis, Root Cause Analysis</li>
+               <li>Business Analysis: Dashboarding, EDA, KPI Tracking & Reporting, Process Optimization, Stakeholder Management, SOP & Workflow Documentation</li>
                 <li>Machine Learning and AI</li>
             </ul>
         </li>
