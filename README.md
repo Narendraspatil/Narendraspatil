@@ -42,17 +42,38 @@ Some of my key contributions include:
 I’m passionate about solving real business problems with data and building systems that scale.</i></p>
 </div>
 
-<div align="left" >
-  <h2><img src="https://www.svgrepo.com/show/530138/writing.svg" alt="Skills Icon" width="40"><i> Beyond the Bio:</i></h2>
-  <ul><i>
-    <li>I'm a data enthusiast with a knack for turning complex data into clear, actionable insights.</li>
-    <li>I continuously seek to expand my knowledge. Learning fuels my passion for data analytics and keeps me at the forefront of industry trends.</li>
-    <li>I use my data skills to explore and share insights on environmental, political, economic, and social issues. My Instagram page, VisionInData, is my creative outlet.</li>
-    <li>I enjoy writing articles on Medium, sharing my knowledge and insights, connecting with a broader audience, and contributing to discussions on important topics.</li>
-  </ul></i>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+<body>
+  <h2><img src="https://www.svgrepo.com/show/218253/skills.svg" alt="Skills Icon" width="30"><i> Skills:</i></h2>
+    <ul>
+        <li>
+            <h3><img src="https://www.svgrepo.com/show/202973/coding-html.svg" alt="Technical Skills Icon" width="30"> Technical Skills:</h3>
+            <ul>
+                <li>Programming Languages: Python (pandas, numpy, scikit-learn), SQL </li>
+                <li>Databases: PostgreSQL, MySQL</li>
+                <li>Data Visualization: Tableau, Power BI, Looker Studio, matplotlib, seaborn, plotly</li>
+                <li>Spreadsheet Software: Excel, Google Sheets</li>
+              <li>Google Apps Script, Git, GitHub</li>
+            </ul>
+        </li>
+        <li>
+            <h3><img src="https://www.svgrepo.com/show/499835/data-report.svg" alt="Data Analysis Skills Icon" width="30"> Data Analysis Skills:</h3>
+            <ul>
+                <li>Data Preparation: Data Cleaning and Transformation, Data Wrangling, Data Processing, Data Pipeline, Extract-Transform-Load (ETL)</li>
+                <li>Exploratory Data Analysis (EDA): Data Visualization, Data Manipulation, Data Mining, Data Modelling</li>
+                <li>Statistical Analysis: Regression Analysis, A/B Testing, Forecasting</li>
+                <li>Advanced Analysis: Time Series Analysis, Customer Segmentation, RFM Analysis, Root Cause Analysis</li>
+               <li>Business Analysis: Dashboarding, EDA, KPI Tracking & Reporting, Process Optimization, Stakeholder Management, SOP & Workflow Documentation</li>
+                <li>Machine Learning and AI</li>
+            </ul>
+        </li>
+        <li>
+            <h3><img src="https://www.svgrepo.com/show/499853/idea.svg" alt="Soft Skills Icon" width="30"> Soft Skills:</h3>
+            <p>Problem Solving, Critical Thinking, Communication, Attention to Detail, Collaboration, Adaptability, Presentation Skills, Time Management</p>
+        </li>
+    </ul>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</body>
 
 <body>
 <h2><img src="https://www.svgrepo.com/show/260474/briefcase.svg" width="30"><i> Professional Experience:</i></h2>
@@ -105,41 +126,6 @@ I’m passionate about solving real business problems with data and building sys
   </ul>
 </div>
 
-
-<body>
-  <h2><img src="https://www.svgrepo.com/show/218253/skills.svg" alt="Skills Icon" width="30"><i> Skills:</i></h2>
-    <ul>
-        <li>
-            <h3><img src="https://www.svgrepo.com/show/202973/coding-html.svg" alt="Technical Skills Icon" width="30"> Technical Skills:</h3>
-            <ul>
-                <li>Programming Languages: Python (pandas, numpy, scikit-learn), SQL </li>
-                <li>Databases: PostgreSQL, MySQL</li>
-                <li>Data Visualization: Tableau, Power BI, Looker Studio, matplotlib, seaborn, plotly</li>
-                <li>Spreadsheet Software: Excel, Google Sheets</li>
-              <li>Google Apps Script, Git, GitHub</li>
-            </ul>
-        </li>
-        <li>
-            <h3><img src="https://www.svgrepo.com/show/499835/data-report.svg" alt="Data Analysis Skills Icon" width="30"> Data Analysis Skills:</h3>
-            <ul>
-                <li>Data Preparation: Data Cleaning and Transformation, Data Wrangling, Data Processing, Data Pipeline, Extract-Transform-Load (ETL)</li>
-                <li>Exploratory Data Analysis (EDA): Data Visualization, Data Manipulation, Data Mining, Data Modelling</li>
-                <li>Statistical Analysis: Regression Analysis, A/B Testing, Forecasting</li>
-                <li>Advanced Analysis: Time Series Analysis, Customer Segmentation, RFM Analysis, Root Cause Analysis</li>
-               <li>Business Analysis: Dashboarding, EDA, KPI Tracking & Reporting, Process Optimization, Stakeholder Management, SOP & Workflow Documentation</li>
-                <li>Machine Learning and AI</li>
-            </ul>
-        </li>
-        <li>
-            <h3><img src="https://www.svgrepo.com/show/499853/idea.svg" alt="Soft Skills Icon" width="30"> Soft Skills:</h3>
-            <p>Problem Solving, Critical Thinking, Communication, Attention to Detail, Collaboration, Adaptability, Presentation Skills, Time Management</p>
-        </li>
-    </ul>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;
-</body>
-
-
 <div align="left" >
   <h2><img src="https://www.svgrepo.com/show/286420/certificate.svg" alt="certificate Icon" width="40"><i> Certifications:</i></h2>
   <i>
@@ -158,6 +144,18 @@ I’m passionate about solving real business problems with data and building sys
         </li>
     </ul>
   </i>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<div align="left" >
+  <h2><img src="https://www.svgrepo.com/show/530138/writing.svg" alt="Skills Icon" width="40"><i> Beyond the Bio:</i></h2>
+  <ul><i>
+    <li>I'm a data enthusiast with a knack for turning complex data into clear, actionable insights.</li>
+    <li>I continuously seek to expand my knowledge. Learning fuels my passion for data analytics and keeps me at the forefront of industry trends.</li>
+    <li>I use my data skills to explore and share insights on environmental, political, economic, and social issues. My Instagram page, VisionInData, is my creative outlet.</li>
+    <li>I enjoy writing articles on Medium, sharing my knowledge and insights, connecting with a broader audience, and contributing to discussions on important topics.</li>
+  </ul></i>
     &nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
